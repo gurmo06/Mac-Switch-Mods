@@ -1,0 +1,1 @@
+Run at 2x scaling to achieve full 16:9 screen resolution

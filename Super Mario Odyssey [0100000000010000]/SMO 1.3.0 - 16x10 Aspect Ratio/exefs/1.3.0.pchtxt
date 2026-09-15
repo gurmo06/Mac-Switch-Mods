@@ -1,0 +1,14 @@
+@nsobid-B424BE150A8E7D78701CBE7A439D9EBF
+
+# SUPER MARIO ODYSSEY [0100000000010000] v1.3.0
+# 16:10 Aspect Ratio
+
+@flag print_values
+@flag offset_shift 0x100
+
+// 16:10 Aspect Ratio
+@enabled
+0096816c AB999952
+00968170 8BF9A772
+0073de88 1F2003D5
+@stop
